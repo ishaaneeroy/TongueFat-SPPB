@@ -1,9 +1,12 @@
 ---
-title: "Relationship between Tongue Fat and SPPB score"
-output: 
+title: "Tongue Fat vs SPPB: Linear Regression Analysis"
+author: "Ishaanee Roy"
+date: "`r Sys.Date(`"
+output:
   html_document:
+    toc: true
+    theme: united
     highlight: textmate
-date: "`r Sys.Date()`"
 ---
 
 ```{r setup, include=FALSE}
