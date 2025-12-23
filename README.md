@@ -240,7 +240,7 @@ figure<- Corrected_TIDY_DF %>%
     axis.title.x = element_text(face = "bold",size=14),
     axis.title.y = element_text(face = "bold",size=14)
   )
-figure
+print (figure)
 
 ```
 
