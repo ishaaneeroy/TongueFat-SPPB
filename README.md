@@ -1,7 +1,7 @@
 ---
 title: "Tongue Fat vs SPPB: Linear Regression Analysis"
 author: "Ishaanee Roy"
-date: "`r Sys.Date(`"
+date: "`r format(Sys.Date(), '%B %d, %Y')`"
 output:
   html_document:
     toc: true
